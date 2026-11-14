@@ -1,1 +1,0 @@
-import{m as t}from"./storage-B9Y-3aMy.js";import{a as i}from"./paths-D4ZCmM27.js";import"./index-CEmxV0rs.js";import"./react-DF2MZ4dQ.js";import"./reduxjs-DyLymZll.js";import"./mantine-Bb6EA4BY.js";import"./react-router-GDRg1Qsl.js";const r="demo-first-visit-done";function I(o){return t.getItem(r)?!1:(t.setItem(r,"yes"),i(o)==="/")}export{I as takeFirstVisit};
